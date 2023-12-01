@@ -1,2 +1,2 @@
 # Demo
-Here is som etext.
+Here is some text.
